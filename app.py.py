@@ -67,7 +67,9 @@ def suggest_wine_pairing(food_flavor, wine_data, num_wines=3):
     return high_priced_wines, low_priced_wines
 
 # Streamlit App
-st.title("Wine Pairing with Indian Food by Ankur Napa")
+st.title("🍷Wine Pairing with Indian Food🍷 
+by 
+Ankur Napa")
 
 st.write("""
 ### About this App
